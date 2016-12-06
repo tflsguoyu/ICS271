@@ -1,8 +1,19 @@
-In Linux, using 
-$ make 
+In folder code/.., there are 3 subfolders indicate 3 methods: Naive, CSP and DLX.
+In each subfolder there are 3 files:
+- main.cpp: all the codes are here
+- Makefile: Linux Makefile
+- sudoku: executable file in linux
+
+Build:
+In Linux, in each subfolder, open terminal, using 
+$ make  
 to compile the code, and you will get an executable file "sudoku"
+
+Running:
 run it using
 $ ./sudoku <../sudoku.txt
+You will get sulotions on terminal window. All the time cost will be stored in "time.txt" in the same folder.
+
 
 1-140 easy
 141-190 easy

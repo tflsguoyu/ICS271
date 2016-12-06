@@ -5,14 +5,14 @@ In each subfolder there are 3 files:
 - sudoku: executable file in linux
 
 Build:
-In Linux, in each subfolder, using 
+In Linux, in each subfolder, open terminal, using 
 $ make  
 to compile the code, and you will get an executable file "sudoku"
 
 Running:
 run it using
 $ ./sudoku <../sudoku.txt
-You will get "time.txt" in the same folder. All the time cost will stored here.
+You will get "time.txt" in the same folder and the sulotions on terminal window. All the time cost will stored here.
 
 
 1-140 easy
